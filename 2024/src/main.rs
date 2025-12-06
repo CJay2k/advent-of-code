@@ -1,0 +1,48 @@
+mod d1;
+mod d10;
+mod d11;
+mod d12;
+mod d13;
+mod d14;
+mod d15;
+mod d2;
+mod d3;
+mod d4;
+mod d5;
+mod d6;
+mod d7;
+mod d8;
+mod d9;
+
+fn main() {
+    // d1::one_star();
+    // d1::two_stars();
+    // d2::one_star();
+    // d2::two_stars();
+    // d3::one_star();
+    // d3::two_stars();
+    // d4::one_star();
+    // d4::two_stars();
+    // d5::one_star();
+    // d5::two_stars();
+    // d6::one_star();
+    // d6::two_stars();
+    // d7::one_star();
+    // d7::two_stars();
+    // d8::one_star();
+    // d8::two_stars();
+    // d9::one_star();
+    // d9::two_stars();
+    // d10::one_star();
+    // d10::two_stars();
+    // d11::one_star();
+    // d11::two_stars();
+    // d12::one_star();
+    // d12::two_stars();
+    // d13::one_star();
+    // d13::two_stars();
+    // d14::one_star();
+    // d14::two_stars();
+    // d15::one_star();
+    d15::two_stars();
+}
