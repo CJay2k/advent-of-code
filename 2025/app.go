@@ -1,6 +1,6 @@
 package main
 
-import "example.com/aoc/d7"
+import "example.com/aoc/d8"
 
 func main() {
 	// d1.PartOne()
@@ -16,5 +16,7 @@ func main() {
 	// d6.PartOne()
 	// d6.PartTwo()
 	// d7.PartOne()
-	d7.PartTwo()
+	// d7.PartTwo()
+	// d8.PartOne()
+	d8.PartTwo()
 }
